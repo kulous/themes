@@ -24,10 +24,12 @@ header{
 	background:white;
 }
 main{
-	min-height:650px;
+	margin-left:310px;
+	padding:5px;
 }
 aside{
 	float:left;
+	padding:5px;
 	width:300px;
 	min-height:650px;
 	border-right:1px dotted white;
